@@ -27,9 +27,8 @@
 
 ## 💻 Prasyarat Sistem
 
-Sebelum menjalankan Soundify di Windows, pastikan komputer telah terpasang:
 * **Sistem Operasi:** Windows 10 atau Windows 11 (64-bit)
-* **VLC Media Player:** Wajib terpasang **[VLC Media Player (64-bit)](https://www.videolan.org/vlc/)** karena Soundify menggunakan modul pemutar suara berbasis pustaka libVLC.
+* **Portabel:** Siap pakai langsung tanpa perlu instal software tambahan (mesin pemutar audio sudah tertanam di dalam aplikasi).
 
 ---
 
