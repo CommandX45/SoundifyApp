@@ -10,7 +10,9 @@
 [![Developer](https://img.shields.io/badge/Developed%20by-mata__bintang.id-black?style=flat-square&logo=visualstudiocode)](https://github.com/CommandX45)
 
 </div>
+
 ---
+
 ## ✨ Fitur Baru di v1.1.0
 
 - 👤 **Local Profile System**: Kustomisasi nama panggilan dan avatar emoji favorit langsung dari top bar tanpa perlu login akun cloud.
