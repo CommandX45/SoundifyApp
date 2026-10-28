@@ -23,7 +23,6 @@
   - Lagu yang paling sering diputar beserta Top 5 Lagu.
   - Poster ringkasan rasio 9:16 yang estetik dan siap tangkap layar (*screenshot*).
   - Filter periode fleksibel (Bulan Ini, Tahun Ini, atau Sepanjang Waktu).
-- 💾 **Mode Portabel (`portable.flag`)**: Cukup letakkan file kosong `portable.flag` di sebelah `.exe`, seluruh data riwayat dan profil (`user_data.json`) akan tersimpan rapi di dalam folder aplikasi tanpa menyentuh folder `%APPDATA%` sistem.
 
 ---
 
