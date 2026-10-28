@@ -10,6 +10,18 @@
 [![Developer](https://img.shields.io/badge/Developed%20by-mata__bintang.id-black?style=flat-square&logo=visualstudiocode)](https://github.com/CommandX45)
 
 </div>
+---
+## ✨ Fitur Baru di v1.1.0
+
+- 👤 **Local Profile System**: Kustomisasi nama panggilan dan avatar emoji favorit langsung dari top bar tanpa perlu login akun cloud.
+- ⏱️ **Smart Listening Tracker**: Pelacakan statistik mendengarkan di latar belakang secara otomatis (hanya mencatat waktu nyata pemutaran, kebal terhadap seek dan skip cepat).
+- 📊 **Animated Soundify Recap**: Tampilan rekap musik bergaya *Story* interaktif (ala Spotify Wrapped) dengan animasi transisi:
+  - Total jam dan menit mendengarkan dilengkapi persona musik (misal: *Burung Hantu*, *Audiophile Sejati*).
+  - Sorotan Artis Top 1 dengan cincin cahaya (*glow ring*) dan daftar Top 5 Artis.
+  - Lagu yang paling sering diputar beserta Top 5 Lagu.
+  - Poster ringkasan rasio 9:16 yang estetik dan siap tangkap layar (*screenshot*).
+  - Filter periode fleksibel (Bulan Ini, Tahun Ini, atau Sepanjang Waktu).
+- 💾 **Mode Portabel (`portable.flag`)**: Cukup letakkan file kosong `portable.flag` di sebelah `.exe`, seluruh data riwayat dan profil (`user_data.json`) akan tersimpan rapi di dalam folder aplikasi tanpa menyentuh folder `%APPDATA%` sistem.
 
 ---
 
